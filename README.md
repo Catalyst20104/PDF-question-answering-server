@@ -11,8 +11,6 @@ This repository contains an Express.js server designed to handle PDF question-an
 - Contextual follow-up questions within WebSocket sessions.
 - Rate limiting to manage server load and prevent abuse:
   - Implemented rate limiting for API endpoints and WebSocket messages to manage server load and prevent abuse.
-- Metadata storage for uploaded PDFs in a relational database:
-  -  Used a SQLite for data storing
  
 # Requirements
 - Node.js,Express.js
