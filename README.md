@@ -1,4 +1,4 @@
-# Pdf-question-answering-server-Express.js
+# Pdf-question-answering-server
 This repository contains an Express.js server designed to handle PDF question-answering tasks. The server accepts PDF files, processes them to extract text, and utilizes a question-answering model to respond to user queries based on the content of the PDF.
 
 # Features
